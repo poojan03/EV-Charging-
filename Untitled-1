@@ -1,0 +1,889 @@
+{
+    "places": [
+        {
+            "formattedAddress": "4190 El Camino Real, Palo Alto, CA 94306, USA",
+            "location": {
+                "latitude": 37.4105813,
+                "longitude": -122.12410390000001
+            },
+            "displayName": {
+                "text": "Volvo Cars Palo Alto",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJrxmAh3y6j4ARhOld14IxaI4/photos/AelY_Ctoyf36STq7yrZ2_r1yEnoMQrRnDJfgrl-ClgEd1DkaSggWrXdyIVdOimuN2N-l1AySrwEa70qboZW4FZb3LPZa7yxY8CCFQoF6GZa-L-i4ySqJvRBGhoawBy8H00qvmVVAg9JwOXSAXvD-CD9w3VT-4q4YXycue_Ku",
+                    "widthPx": 932,
+                    "heightPx": 520,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Volvo Cars Palo Alto",
+                            "uri": "//maps.google.com/maps/contrib/114282676229549953083",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXt65r9qIMj8U7B4YQMy2zxYkChkK3vrqlDZtap0y4OQvg8LT5w=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJrxmAh3y6j4ARhOld14IxaI4/photos/AelY_CtEHhJT5gY9Sn94TAszkUoCdxti4W0GI3fsMwSqIx3561jFWv-CFAUhVaLdGy_Q7-loqfYfkGDDvobO7VCm-Yu9zZfyO0gb48mrcdN5HXYHyQ-9kq7jzb_ECgrybIAiJJCXIG1D2LoCo-xekKxTO0CTLyckJa6BeRCa",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Lawrence Kim",
+                            "uri": "//maps.google.com/maps/contrib/110587344623418115066",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVHcLm_zpG1tfcJkcQ5TDsyUgq6ZrLcX0EMLlGCsNg81YWMxMfokw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJrxmAh3y6j4ARhOld14IxaI4/photos/AelY_Cs7EjqnSvFFyz3CeKjeMQW-rx7gieHBMKUztiBrAdAF6fWxf0H7knKWmPGV0Nmz1Mh6Kk7wRYe7k9e2EubBl9YJAfqzM0DsgV3qDlAMJ20CnDqdtquJqB2bYkeyw5jdbgnhgr0QbjTez_SwUfSMqZzbu1J9lYpzGb6H",
+                    "widthPx": 4800,
+                    "heightPx": 3200,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Volvo Cars Palo Alto",
+                            "uri": "//maps.google.com/maps/contrib/114282676229549953083",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXt65r9qIMj8U7B4YQMy2zxYkChkK3vrqlDZtap0y4OQvg8LT5w=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJrxmAh3y6j4ARhOld14IxaI4/photos/AelY_Cvtf_gUWc0LlTtjPacYMC3R0cqTk0txmu9w76rHtGK7zkVzt-ypTwBEWGEqXsAIUIs8QWK37foPU59Fg2sgvto0Ge1CENsIOrW6AOx0PPG21z-ON59XqrWi9ooRABrRKZ5fGnRvUDdQzVU7tq4Wpch6y2hCoxinPI64",
+                    "widthPx": 4800,
+                    "heightPx": 3199,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Volvo Cars Palo Alto",
+                            "uri": "//maps.google.com/maps/contrib/114282676229549953083",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXt65r9qIMj8U7B4YQMy2zxYkChkK3vrqlDZtap0y4OQvg8LT5w=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJrxmAh3y6j4ARhOld14IxaI4/photos/AelY_CuBofWRmZGlNhndm6OKnE7xgGJWZk8_s8nmkxAQzbPFl2rnF208QYZn6WC3MJPeXuCtM49_mK6NEybgO5pg7YGRyIxA60GrFA4oG-ZpCxfLl1KvViBZtRdf74TT0tFvwSI3jwGtB86gLLa1ARx8NaP03dAsBXavBXY9",
+                    "widthPx": 4800,
+                    "heightPx": 3200,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Volvo Cars Palo Alto",
+                            "uri": "//maps.google.com/maps/contrib/114282676229549953083",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXt65r9qIMj8U7B4YQMy2zxYkChkK3vrqlDZtap0y4OQvg8LT5w=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJrxmAh3y6j4ARhOld14IxaI4/photos/AelY_CvEiJYL9nbEY8QNYad8Aa7bNoW6898eZLAFy36OAmoRE7xotUoetcdGpw9kHLiXFH9g6GJ5wsZb5Ze9CPNMhTG7blmIJQ0zeWE1JbH8y5u_7fFUTL0PogCvUK7SRSXRutb_1omD-a6mSz-fYJ23hS229_OjSK9mRhmP",
+                    "widthPx": 3200,
+                    "heightPx": 4800,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Volvo Cars Palo Alto",
+                            "uri": "//maps.google.com/maps/contrib/114282676229549953083",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXt65r9qIMj8U7B4YQMy2zxYkChkK3vrqlDZtap0y4OQvg8LT5w=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJrxmAh3y6j4ARhOld14IxaI4/photos/AelY_CvRW0daJiKW3At0sW3RYLXl7Is1dA78_qRb5O00RvVIpi65ZSXee6RTceyYtrhn-LQMFebpQRM9Zea3OOiq3m4APsUZfk1akyWidh1fjOHWBZSRBrjAmNiWAmizDAvcYLeUCXiPJAHjm4GKNtlOxt4uwUtc39eMUdw1",
+                    "widthPx": 4800,
+                    "heightPx": 2700,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Nihar Khedekar",
+                            "uri": "//maps.google.com/maps/contrib/117061383912373799813",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWTZwdq7A_oKrLu5Iia3ve0WztUjHzqD87NFxqk9hkBkTt4RN1cfA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJrxmAh3y6j4ARhOld14IxaI4/photos/AelY_CvhbGBqAUnS9NisjynB0Z6oY0u9PG3uT_PsoH17LOoCqPbU5we67hNJ4dhNY2vRSrP9K-dtWQQZ5yu_2e8OCgCJofUtR6xnmaaOzDWSMhKODu1P-osdI4vya4lrjFvfDimPtb7lGd9EESA5TW7QNdpRgYH_Ir5491uZ",
+                    "widthPx": 4800,
+                    "heightPx": 3199,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Volvo Cars Palo Alto",
+                            "uri": "//maps.google.com/maps/contrib/114282676229549953083",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXt65r9qIMj8U7B4YQMy2zxYkChkK3vrqlDZtap0y4OQvg8LT5w=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJrxmAh3y6j4ARhOld14IxaI4/photos/AelY_CugmUhdRHhgBpx3CWcl4qEitomGoR0JrVxDsskE2OFvw9DEHEljSyQ-1vU_JdfcBSxooCy8J-8Ewmfiy6pnNeCtktjVxPoQLyqo7R3O-M7OTNiqMRhc26KkL14Ev2JjrT7r9x-lkT0sSFHfq9W3vyIfnN2zjpks813T",
+                    "widthPx": 4800,
+                    "heightPx": 3200,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Volvo Cars Palo Alto",
+                            "uri": "//maps.google.com/maps/contrib/114282676229549953083",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXt65r9qIMj8U7B4YQMy2zxYkChkK3vrqlDZtap0y4OQvg8LT5w=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJrxmAh3y6j4ARhOld14IxaI4/photos/AelY_CvuiD5GjsfO6_3ZrIZz9qFnelf2TmREhDIypyHdC6tw6eDjeWFiZyb7wzFSqUoOsZL1udoynpyuycV2hIwbovki6Xj8_vI8U3BTqsp7pHa4aQdaTVpXe_-s1JDSqNoC-I-CUzy_ma6iGNtWvSXkrvJr937Ca1Aj0M09",
+                    "widthPx": 4800,
+                    "heightPx": 3200,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Volvo Cars Palo Alto",
+                            "uri": "//maps.google.com/maps/contrib/114282676229549953083",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXt65r9qIMj8U7B4YQMy2zxYkChkK3vrqlDZtap0y4OQvg8LT5w=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "formattedAddress": "1401 N Shoreline Blvd, Mountain View, CA 94043, USA",
+            "location": {
+                "latitude": 37.41530910000001,
+                "longitude": -122.07655329999999
+            },
+            "displayName": {
+                "text": "Tesla Supercharger",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJYyrshlm3j4ARnQhe-d9CmOA/photos/AelY_CsV-BtBR0KeA9ueXduX8tjkEJThKXq5y25X4CVKjcoO4mb-z9aqQ931mZVcqkJ5L-Y3DFDjPxlslAZhEOqpN_ArflhXdHsGadFGk-i1JLLjJKAL4F3Ak3DZn3qL5BAf_abtsV4fA_qPfcaDJg4aeiIKZIinamah08Ub",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Soknot Young",
+                            "uri": "//maps.google.com/maps/contrib/116317929604395572989",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVF3wSMhS9H5m8eiJmH4MOIVPq_HkZ0f1CepET-oIZd4diix2w=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJYyrshlm3j4ARnQhe-d9CmOA/photos/AelY_CvUHQRNY0k_x2d-VV8HvQ15sb9q6FDUAbXc6K3OrBp25S6LoB-0txDxPcEZAhZM7mjUnwJA1UcQcNeLZ9Mh5YS0AUnihIUcRMW4b0nJWvNa1PhQR_Ty2vCTeNNYsLsm0E-HI0YuaOeJ70WKrS-n_fLdRTWQVqyTekAH",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Soknot Young",
+                            "uri": "//maps.google.com/maps/contrib/116317929604395572989",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVF3wSMhS9H5m8eiJmH4MOIVPq_HkZ0f1CepET-oIZd4diix2w=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJYyrshlm3j4ARnQhe-d9CmOA/photos/AelY_CuOmZbACdkL52cpkSkZhwukJHotOGtn5M9RgKcRwfCG4gWMaBAUzVJnjwlvhHzjJl-TjmwqpyUnb3D39HobxFYKCHaY29JgKJLt9TVzzPwnaEwQTNSQEhzQ2Z1Te-zE9mf297lIgmkxS-mYsNu3XDfDcwYT7cyHk6Td",
+                    "widthPx": 3456,
+                    "heightPx": 4608,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Rintu Varghese",
+                            "uri": "//maps.google.com/maps/contrib/104862896535593261049",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUOLRDrvkhxZO4qECvv_GB55liN7gEwqcw_l5Okep3-chMpdpwRTg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJYyrshlm3j4ARnQhe-d9CmOA/photos/AelY_CuQ6R_CswEdgLxTP_2pUTBBQyfKqX2LMyIdpIexgzKKBcQXX3NcUSnAtHZVGquHSzfXYMQitSF_pBK4S698sEwrPJUhSRbmVehg5bvIcVPfmLxCjJVDO_IYGv2OGmV_W9PmiQd7oD9DgDL0Dtt4OeNynREavtrkrf2f",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Atul Srivatsan",
+                            "uri": "//maps.google.com/maps/contrib/105705174494019125621",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX240D2pK2XIzYaCllpjzrQo-xk9sBQX-htbp8_Qa0-TNbljG5D=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJYyrshlm3j4ARnQhe-d9CmOA/photos/AelY_CuUfCuJdB46w56ypcgoEN9CCZGHdoMnkGpIu4mVdQxV3FsaP_vyNjxs90vZUZtin4wOb1ZmuAPoK0EQTej73KY98x07K9ZvbXX3hynoQsnaKtm4h7MPd_TRZ090EdmyvZpdsTsK7kvKgfa3l_hezm6VKkzWKjRVkGc",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Randall Hubbell",
+                            "uri": "//maps.google.com/maps/contrib/109511348340874863859",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWx4Pct2PX1HkNI_bbihu5s_h717YwMsl55gBQsy_JAUWwpGw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJYyrshlm3j4ARnQhe-d9CmOA/photos/AelY_CuN0SUnszm-IHMmNHNWwR2W5rGKPBIrZqDlfcNtiGcvbiF-37Vf9bFGkOQlfZFzJd2_J1zGglU9LQLfaIndhHnJC-KIMgZrHZunqNhTq4OBgpOVW9ZfMT1TRbuxPEOAF9frFt2E1HupXL_H7kCdmHABYuHJqmkyzArx",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Zain Dada",
+                            "uri": "//maps.google.com/maps/contrib/113058447057598635524",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUl2kjqZeEEirT8qtP1xOBr9sC5dLRkKLVGSiW0ZwmSfdW3DzuGLw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJYyrshlm3j4ARnQhe-d9CmOA/photos/AelY_CtTQ1cj9cUb6eYgBRMAK9GVQPgjlPm-nSaFLyds4Ls6OLvjTQzrSn9E-H5PeEcYm7OZyaijr93gj9m2z3VbpZukoP1W3ted5Dib4zab-nRK3_m1DIjm7lmmmrxxX1H7hU5J6xG_QVjrs-3KWMkUxLH2ys6jnN62v70s",
+                    "widthPx": 4800,
+                    "heightPx": 2700,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ben Bak",
+                            "uri": "//maps.google.com/maps/contrib/108728317305072830034",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI-2O3kzzWm2XuItnMly9q12TwP3WXEIlLICGEOjD7Eq-H0Og=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJYyrshlm3j4ARnQhe-d9CmOA/photos/AelY_CvL0CsJzxxwUyrKECFhsQ1zV6C9Pg_9thxDeUJt6w3-b4B5qu9F4oGUSaEqmHOJmiiIw00DwQPZqBd1ii6fCKFlsm8y3yh3LlcWRqe3o7154HktpGk4rrheifbVNOOeONlQ7NVjWZkX3YBYhsy7Jl3_HZ1pYTAID8Sz",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "William Wen",
+                            "uri": "//maps.google.com/maps/contrib/107318359112924497940",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXRlKK2D8KW96AM-rDHbXzGdQCyP49-MWLHNO1mtAFGPYjYOPQLKw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJYyrshlm3j4ARnQhe-d9CmOA/photos/AelY_CsRB55B2U2Jw8G4YG4zBx_e5wkCEnU8CRiOEU6aYzl7QjxyN7qLspOj30C6re4JYi-wumPGKVy3Ruxq9H4Ol77LZjNxelRfaoWKW9c6Pn9PZT9dpRdl1Z-qM5fWRQwzYH7oEM-1nbqT3vHhFMu4nGtUffw0fhVtoYJ9",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Zain Dada",
+                            "uri": "//maps.google.com/maps/contrib/113058447057598635524",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUl2kjqZeEEirT8qtP1xOBr9sC5dLRkKLVGSiW0ZwmSfdW3DzuGLw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJYyrshlm3j4ARnQhe-d9CmOA/photos/AelY_CuJ8SP5govGJMNAmxSVd-ip_Ege9K60Zz_2nYs6xXWj34kwP9m2G25EdQult03b0GpIMSOqnmMXMM7lEGnUVbfJOw1GB28u9advfBTvqvzEndhusjLVX5uyEWMgJ_JLnE3znfJz4VquEk8U1RmhVlZEWpoXKWwHD_A4",
+                    "widthPx": 3840,
+                    "heightPx": 2160,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Dave Lobach",
+                            "uri": "//maps.google.com/maps/contrib/112920932960172426875",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVBITspGB4gPdmnfq5KUAQ6eKGEspzl1UBp7Z43hs5TlGH2P9f3=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "evChargeOptions": {
+                "connectorCount": 12,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_TESLA",
+                        "maxChargeRateKw": 150,
+                        "count": 12
+                    }
+                ]
+            }
+        },
+        {
+            "formattedAddress": "111 N Rengstorff Ave, Mountain View, CA 94043, USA",
+            "location": {
+                "latitude": 37.4035371,
+                "longitude": -122.09559879999999
+            },
+            "displayName": {
+                "text": "ChargePoint Charging Station",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJ74GeY6Wwj4ARt3VKi-7ZzDA/photos/AelY_CugR2a9pdGvvdZN4SK7aoUV_hfmUGGZLukagVIvFZz-T32Qdx-y8xa7lGQ9TsDdu6uB0cJRUbUxift26W7eVJ3wccdqgu9fxnQvt_qNoF_FwHxfJmoKvBi53_7e14vUrUaKf47TpGPZXgYQ8Sx0XquMBCZZBsbsgUsI",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ethan c",
+                            "uri": "//maps.google.com/maps/contrib/116173318894416591677",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXlnyOOvdiwiVWGkhjBGsbR9G0O0SnD2RCafReLcoto0iXujxs=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "evChargeOptions": {
+                "connectorCount": 2,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_J1772",
+                        "maxChargeRateKw": 6.480000019073486,
+                        "count": 2,
+                        "availableCount": 0,
+                        "outOfServiceCount": 2,
+                        "availabilityLastUpdateTime": "2024-07-22T18:00:00Z"
+                    }
+                ]
+            }
+        },
+        {
+            "formattedAddress": "600 Showers Dr, Mountain View, CA 94040, USA",
+            "location": {
+                "latitude": 37.400948899999996,
+                "longitude": -122.108632
+            },
+            "displayName": {
+                "text": "Electrify America Charging Station",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJ0Q8c-piwj4ARmu3qS5upJ_0/photos/AelY_CtVCZM1V2ZyJcbpXFqUKeg75BYC4X4OELP4lk1nSvoLotaUTDWZ08ADhnpMQ_1vQ7SH4inMaW7P8SggrEB-hT58fDzJuuWJiZzw-bgx_ME5mJJvnJ7Ka9Un_pGHjFJ9ir1OxmQ6poTkgNswcv9mfLp5J1dEUpiBTbEd",
+                    "widthPx": 4080,
+                    "heightPx": 3072,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Adam Shpolyansky",
+                            "uri": "//maps.google.com/maps/contrib/111773391933802256812",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVyI348-SU5Q75QeOraOOD7THLOrmac4DCb6B3EmEs1kBIoqXzb6A=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ0Q8c-piwj4ARmu3qS5upJ_0/photos/AelY_Cv_cvN6W1ADHLGIfv2DF3ffWQAsfTM2k9l6g-uXlV-Keh3BIZOXOJuoVdpqxeMtjx6VMaPRcdSZfhMJn8DzofFHyg4ydsOG-Gi_hBI5h0gYB7Vh8giO2f9saDl0TuBYM3iGfyyZwtkccpVM5FFETSdGvPia5eh1nR4t",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Giles Peng",
+                            "uri": "//maps.google.com/maps/contrib/102941758672310676792",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXXYSiziHVhixELZCwMusR32K4xdnUkMH2IacXF1JkLHk2B4a9OKw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ0Q8c-piwj4ARmu3qS5upJ_0/photos/AelY_CuCTbJxl8XQhgnWdXzODref477QTKYBhDlB6i6o2SMN3gz91gTH_eZeEIG22Bg4cjB0k3U9QKzQQRu--VODLTBlFo1Kqj-6q6IPfNYr413Pr0wS-OwtegnHCo7z---5qJwXhJp6CHdnxUm_yJJ5nX1NDSzjnke7t7Ae",
+                    "widthPx": 3000,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Richard Harrison",
+                            "uri": "//maps.google.com/maps/contrib/113155148815805902545",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUrfHKlmcpLDB_DOU2Sz-raNZpDZyj79CTz3B4FheojP-0BlWRpRg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ0Q8c-piwj4ARmu3qS5upJ_0/photos/AelY_CvQjMuVfGiMC3gJprWPys-p6hx6Y0dcEdCYtdlkG8YFBURhBssdzpH9-HnIojfWY2r9cVPYaVSBcX_ufcgpu3voUpqagfK-jzKGsBYWtJ3jZq6QSOm8i1xHZ3eqAdFETRVLN-BpiNuKU40KjiYIgwdF86T0qjyk_hYV",
+                    "widthPx": 2268,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Dr. Manuel Kuehner",
+                            "uri": "//maps.google.com/maps/contrib/102513738296946305892",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXCXnn2iHtiTiSQRo6b8RsYUJrebYUsMhFfNouAvNF2wIgafhrv=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ0Q8c-piwj4ARmu3qS5upJ_0/photos/AelY_CvYFJUJd5Ur843VPokzR1Mz09JwpTTpk6qtVaIjkE2a6Iqb23qOcPITNlUfiNpT2ih32kTesNZ93OX1kZQn_xgkek2SNPwJgBlYlokegYf3-25Ag9GWU89DoZDs2Ru3dYPxVfu-2jwGoNz2zpqhf_PtqItAjNp3kVhW",
+                    "widthPx": 2868,
+                    "heightPx": 1637,
+                    "authorAttributions": [
+                        {
+                            "displayName": "january161992",
+                            "uri": "//maps.google.com/maps/contrib/109236805886109961138",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWakGjaoWRyG4xlmesRv_N3VDluvHXuYuyQRP0VtUjnl0B1u3m1Yw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ0Q8c-piwj4ARmu3qS5upJ_0/photos/AelY_CvClUEIH6_ZOj-uYYzVoyduudPm7BfDV6ESODnFudshVUoKqAIQVEo8ttZ7Ake7l3o-rEBI03c3ACKU1rg-d7w02ZuMsMlL40ag7kC7KRvIdrn58cn3IObbkgxLaJDK6rtFVTaMegVm9fRy_YyTd7m0Rqjanb_4tdWP",
+                    "widthPx": 1920,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Joshua Ellis",
+                            "uri": "//maps.google.com/maps/contrib/115904085736896653425",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVuFDRwj8eVh7eZDgQkr2hssCx2Kt75AGODL_V23MeXbNeCZeCt=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ0Q8c-piwj4ARmu3qS5upJ_0/photos/AelY_CsOtswqO1r9xeclKAANu8gwD9Tswr12HQS3W-mHChDTWgEP-MYa8tP9YnnjG7dzEsstdfcf2kkOhydtPsq8w0SEJJdyGXxIeGBBu4AAXumhSzalFZKKGU8u1Hg0VvIBLkhaeMVG3l0JnSD4EjFNWHSpxDFUMlQFXcT7",
+                    "widthPx": 3000,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Richard Harrison",
+                            "uri": "//maps.google.com/maps/contrib/113155148815805902545",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUrfHKlmcpLDB_DOU2Sz-raNZpDZyj79CTz3B4FheojP-0BlWRpRg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ0Q8c-piwj4ARmu3qS5upJ_0/photos/AelY_Cslhxf26anL4FF91S3obky2zifOMUGh4SmVgf1c38nV8_vUltqEZ9Ktszv7ZIpXwCSO2GvnJZBWrBR8G2XW8mJnznMetsuwW_mMAtwqRYNPvh04SRPMU7OITs8ifhi71r1gW6n9Iu9KNu-4CMLmSI3DrkYOKDiY8BBV",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Konstadinos Hatzianestis",
+                            "uri": "//maps.google.com/maps/contrib/112122129192476909403",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXuDh2g2fqC3yQKa13VyhGvOyJoYmWHzhVrcnCq-QT2RdJgLps=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ0Q8c-piwj4ARmu3qS5upJ_0/photos/AelY_CtC95uI7zkdMu4lfW-i-JTnPuiMRmMER7pup1cLcOW4Vgkdx53AU5RPevkJ1R6kOOZUSgDCM8AhRH3_D2nLuPD-Bvx0ofY-PP4uSSZ2ySAp4hfcvtYGWOfxE26TlYwivCkl2sakPY0rH0pTiZoHjSwgo8LIgy68r9ly",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Larry Ponciano",
+                            "uri": "//maps.google.com/maps/contrib/112901242628801367837",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIE0VDsoHRkvi3YFWSWEvYzGwpcX2dgu7_Q9MkmnSxiTtf2Og=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ0Q8c-piwj4ARmu3qS5upJ_0/photos/AelY_Cu3k-5HbQ5rQJvzEZI50ngVW5qO0D7jpqGCH5aLYfm0HmACjQJtkSOVAMCfQdYyBuJ0BdsXA4n6VKy0GCl5hiVsRkEjPNSCXeKYQy_GoN5-gPEHe_hLpYPnIWfnjDq-ixmLQ0CvZZLrlVsmKtDa8AnmjsaMb9snpaPM",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Narwal Lynx",
+                            "uri": "//maps.google.com/maps/contrib/110758740635783445304",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTsP8MngI7FcYRcR_77j4QzenTAYHjRWyp1r2ORTUBnHqYUD-f=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "evChargeOptions": {
+                "connectorCount": 12,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CCS_COMBO_1",
+                        "maxChargeRateKw": 150,
+                        "count": 11
+                    },
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CHADEMO",
+                        "maxChargeRateKw": 50,
+                        "count": 1
+                    }
+                ]
+            }
+        },
+        {
+            "formattedAddress": "3966 Middlefield Rd, Palo Alto, CA 94303, USA",
+            "location": {
+                "latitude": 37.4184061,
+                "longitude": -122.10945199999998
+            },
+            "displayName": {
+                "text": "Electrify America Charging Station",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJLbJzuU67j4ARUh7lAo6Vh_I/photos/AelY_CvCSILbI83TafB_irYZeUCY9IM8fUIFEqJsqrBiTOYFEuO0aV4jbxUQmeeheqmNXTFMG369kGDojpZewTcC2Y-Q8sLzkiuX_UxAFDOBpoKfjd9BqZ39rD9roYbjplSL7p61C_7Rd9PWobfD8UE-43r63T4DNYRlGmqB",
+                    "widthPx": 2726,
+                    "heightPx": 1960,
+                    "authorAttributions": [
+                        {
+                            "displayName": "january161992",
+                            "uri": "//maps.google.com/maps/contrib/109236805886109961138",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWakGjaoWRyG4xlmesRv_N3VDluvHXuYuyQRP0VtUjnl0B1u3m1Yw=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "evChargeOptions": {
+                "connectorCount": 8,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CHADEMO",
+                        "maxChargeRateKw": 50,
+                        "count": 1
+                    },
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CCS_COMBO_1",
+                        "maxChargeRateKw": 150,
+                        "count": 5
+                    },
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CCS_COMBO_1",
+                        "maxChargeRateKw": 50,
+                        "count": 2
+                    }
+                ]
+            }
+        },
+        {
+            "formattedAddress": "199 E Middlefield Rd, Mountain View, CA 94043, USA",
+            "location": {
+                "latitude": 37.397666199999996,
+                "longitude": -122.0620634
+            },
+            "displayName": {
+                "text": "EVgo Charging Station",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJf8j-4z23j4AR_MQ2-bgMmrY/photos/AelY_Cs0XFjZcf-gSBFbJn56pvBc4Q1UsYiOPShFwIjCVNr08smqNXhObIa2DKkMgsLnOuzF7MQsOR1LGUd3mgkx75ToQMJShZwTXXoASo_iA-RxRinWISv-WlUnOU76g7eCip12HsU8daOZ6hZjJsKeDODj4kwujUDmMzFU",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Alex",
+                            "uri": "//maps.google.com/maps/contrib/113305919995230455128",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVTE6wrREtLjZtr850UmxmYOZEwhwejZOmFNWSd306pJ8-1Ii1Dcw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJf8j-4z23j4AR_MQ2-bgMmrY/photos/AelY_CuLtPbmC3bdV50NEwrpZ52A_btwHkJtA2N5CNRiTucDVbToy-lwwgTJhSqQZda1hgEBS3oIcPYp87uTIwV-aRRLPPMt-y-BvO86OLDpG3-x8b-efLzUxdPQsmilFe-EabHrvxT3UKd3Mg_DDHYJkIUpxtnI4VmB5CKi",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Tanner",
+                            "uri": "//maps.google.com/maps/contrib/109354314523792459150",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIFqxQzIs2EsgzqjQXi0Ze1b7p2rJOVj0F85Ca6Z3N7P5Qmpg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJf8j-4z23j4AR_MQ2-bgMmrY/photos/AelY_CsIIyy-iTPYvycqL-IMdHcGIHDsX0tPAkaR1r0P_vR5eNVx22O937KdVj1zZ5w1oRGM86f9KRmOjQPFJK12OILF7e-78nqfGzDzx1B3bR_P2ur5gS9ETngrkWKSHLpg9KCyVgls88XIMRRDOOiY8XeSOxJDIWV-6Qgg",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Tanner",
+                            "uri": "//maps.google.com/maps/contrib/109354314523792459150",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIFqxQzIs2EsgzqjQXi0Ze1b7p2rJOVj0F85Ca6Z3N7P5Qmpg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJf8j-4z23j4AR_MQ2-bgMmrY/photos/AelY_Ct85G6mK8mXvYBGdLtXjGWfqImgTTOYJhiNqxCtj6oFxq7eLquVdBO7ijd1zk6KuS8WEVeh2ZZ0T1NlYSNCliBg-wfSWfYL8BfKrL8afR-DDN1TTJOGvS1AzGLSTK4zKm_a0V_B9EbA4o2vrJU4ZzM260UBm9agg2dK",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Tanner",
+                            "uri": "//maps.google.com/maps/contrib/109354314523792459150",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIFqxQzIs2EsgzqjQXi0Ze1b7p2rJOVj0F85Ca6Z3N7P5Qmpg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJf8j-4z23j4AR_MQ2-bgMmrY/photos/AelY_Ctaewvr5s4IcMTKknlW0Ca1Rp1ld-VcLqqkB3hBOOkscxmSX9CwZnUlPW7Pyert45VdPoLeCtZSMP1fB-uxl-drqG5zxmOPNOTaNXxjimwgYnDzK37ee9CbKSAfbA8AOLoxo6pdyEITB7FAdi-nLs0M-qVekglmgZXA",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Alex",
+                            "uri": "//maps.google.com/maps/contrib/113305919995230455128",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVTE6wrREtLjZtr850UmxmYOZEwhwejZOmFNWSd306pJ8-1Ii1Dcw=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "evChargeOptions": {
+                "connectorCount": 16,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CHADEMO",
+                        "maxChargeRateKw": 100,
+                        "count": 8,
+                        "availableCount": 5,
+                        "outOfServiceCount": 2,
+                        "availabilityLastUpdateTime": "2024-07-22T10:45:00Z"
+                    },
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CCS_COMBO_1",
+                        "maxChargeRateKw": 350,
+                        "count": 6,
+                        "availableCount": 3,
+                        "outOfServiceCount": 2,
+                        "availabilityLastUpdateTime": "2024-07-22T10:45:00Z"
+                    },
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CCS_COMBO_1",
+                        "maxChargeRateKw": 100,
+                        "count": 2,
+                        "availableCount": 2,
+                        "outOfServiceCount": 0,
+                        "availabilityLastUpdateTime": "2024-07-22T10:45:00Z"
+                    }
+                ]
+            }
+        },
+        {
+            "formattedAddress": "161 Madera Way, Mountain View, CA 94041, USA",
+            "location": {
+                "latitude": 37.392323999999995,
+                "longitude": -122.07385239999999
+            },
+            "displayName": {
+                "text": "Electric Circuit Charging Station",
+                "languageCode": "en"
+            },
+            "evChargeOptions": {
+                "connectorCount": 1,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_J1772",
+                        "maxChargeRateKw": 7.400000095367432,
+                        "count": 1
+                    }
+                ]
+            }
+        },
+        {
+            "formattedAddress": "4800 El Camino Real, Los Altos, CA 94022, USA",
+            "location": {
+                "latitude": 37.39896,
+                "longitude": -122.11018000000001
+            },
+            "displayName": {
+                "text": "EVgo Charging Station",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJRd6Cx5mwj4AREJe9lP4PrCE/photos/AelY_CvmQ8xDv0DVG_ND1DYUodELdtV5Qd9pZHPwqRt9lyvmctv2QNZcFIGp8qu3Dye-4eG_GodxkqltyzVxaG1ZYcz0H7PChCC1CkgLCAdqX9anRWrNd3RPQGygVvTxd4UVCd-I8CMJBDwtIkFPfRkM0LUYfK-2cgvJnMA",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Shriram Ilavajhala",
+                            "uri": "//maps.google.com/maps/contrib/107044383470738604572",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXH9iGLI09Wxj8W5pQ4y3GzqEZPd6fp1zTeABWMbJ6QG1PBsHMR=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJRd6Cx5mwj4AREJe9lP4PrCE/photos/AelY_Csk2eYk6164W0LhER--b1IqAMVARJTch91CsOjwUryZH2nd7-foCGlKX4cXT5t64eK46m2LvNxVJEVVRQWczZJSZ3vaR_HoBPpWl56oH99Om8yPQtAPMTEamKOGzpYby1hThsb8sQJM85egbE7TgVIZFEiCLt0dxzgE",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Prune Rooney",
+                            "uri": "//maps.google.com/maps/contrib/110967312820270727697",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXaKfePUjp13VsDoCwvmflcCRYBrIUXyBppV5mvrbjO-8RO1ib3=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJRd6Cx5mwj4AREJe9lP4PrCE/photos/AelY_Cvx2gtSnn3ZCv8GI3SgreS9YUTKRUEHOj1J5nOiRyxwn6GPAwGZhWX-zbwxEWAyNuYqj0laBgm_QHd4JZlXrboHmiEssiFKxMUSpfrlc3blBnd0vDt07UmzyRze1sUP7NWZH4EZrfd2nrkMDa91CVGvDaqN-VWpoCw",
+                    "widthPx": 2736,
+                    "heightPx": 3648,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Andrew Foster",
+                            "uri": "//maps.google.com/maps/contrib/104053532464087688431",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXhRRQDPWo2ptxGlqZFCB-TmC5hOtrfNKinuh_j_DIdFQ579mw1=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJRd6Cx5mwj4AREJe9lP4PrCE/photos/AelY_CuhJ9geiVj655R3sZr-A6wB5XDzqP20xT-UGTCUPQZ7irca4RWDbS3Nq_ob-kzsf43i-qRwiZWkiHpS_VSPyUfFRYJfkf0VcqC1xDqGZHH0BarRPIRgphEbl95jngwdk7ayT73tiwxQdD49NkJqLbTVEz9f-DrsINc",
+                    "widthPx": 3648,
+                    "heightPx": 2736,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Andrew Foster",
+                            "uri": "//maps.google.com/maps/contrib/104053532464087688431",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXhRRQDPWo2ptxGlqZFCB-TmC5hOtrfNKinuh_j_DIdFQ579mw1=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJRd6Cx5mwj4AREJe9lP4PrCE/photos/AelY_Ct4Ckr4qVO5zZQzkloVtg8NC6NvHvkewmbjOUcJuwTz5HaQVxGoj7qvBQ4B7vc6RZkicQEk8R4DmaaY2g8btrsn9KV9goKsU2jNHTP4IQZ26DVJIeKrjkncsq7ffcw9Wg0dS5f9sB-N4mczT5rBDP8lVMZw7CRRKX4f",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Prune Rooney",
+                            "uri": "//maps.google.com/maps/contrib/110967312820270727697",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXaKfePUjp13VsDoCwvmflcCRYBrIUXyBppV5mvrbjO-8RO1ib3=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJRd6Cx5mwj4AREJe9lP4PrCE/photos/AelY_CtFLPnD1w8S3L52gy_UB2qurnJntmQ1Ptsk_e0ejguqpJAsvYJYna87pW3dG_7GHUsVf7uSXjmxa_ynqns17e_zMnq1SXad0ZgfmjHxCA6m29v0GkPgw-arTcb7QZ1csS808OJJZYTIYNbV0_Hk7d7kP9CT1pmi-JKa",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Prune Rooney",
+                            "uri": "//maps.google.com/maps/contrib/110967312820270727697",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXaKfePUjp13VsDoCwvmflcCRYBrIUXyBppV5mvrbjO-8RO1ib3=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJRd6Cx5mwj4AREJe9lP4PrCE/photos/AelY_Cv3ZRvf0JXAz-JMeAmBXIly8PEhvC0NNokeKOttuqTixGsyxLqcH81MYpQahlvMGcazoBHL3LgEjmY49nfjUzi0Bv0GCqHhLbQC1Mlxrg8GJ1kyl4FZLi2Kunl4Qqxj_TSz9mq7j__gXq1y3nKwXH7IJvoiPSc0Mrs",
+                    "widthPx": 2736,
+                    "heightPx": 3648,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Andrew Foster",
+                            "uri": "//maps.google.com/maps/contrib/104053532464087688431",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXhRRQDPWo2ptxGlqZFCB-TmC5hOtrfNKinuh_j_DIdFQ579mw1=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJRd6Cx5mwj4AREJe9lP4PrCE/photos/AelY_Cv1mn8QLG3xUmU0SA7tjfBSgLH84j4fGY6PVCyZ9589_R_lA6bDqfninY_RHS6HWUslADUW1ytE2y72lmtPt4C6IwRl25tOzyK4Do3Ze56aOfJC-Eilf05D2_TGMPw3q7KP1iVs5kpmtM9ubvKvs_HnYjIF3esJKXFh",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Salim Parak",
+                            "uri": "//maps.google.com/maps/contrib/112381670198421030401",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV4qcrKKC7vO3-iZedgq5uB2FhnG_kueqvHUaxEoqqvQeGD9Zetbw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJRd6Cx5mwj4AREJe9lP4PrCE/photos/AelY_Cu2lFrEwiYu5ShF8sCNdmR1S7Gj__or7rfLtR_gUFcGqlJY1EaYXU5V93hEc60iIv8QWkKIGL0I4wkrLH3quhXZRnwDfknZzY4bM2JJ7Q4ISLM_SvjPGqPENxT_gTlTExF-B_KUedfnJ53DWDBtcnK3M856-iy9rjHm",
+                    "widthPx": 3264,
+                    "heightPx": 2448,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Muhammad Umar",
+                            "uri": "//maps.google.com/maps/contrib/116235070221215485280",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW4FWYNZPDY6AIUJE3owNKKYyWy4oiuVFzqnSBkCwnmh0wFO8Dkiw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJRd6Cx5mwj4AREJe9lP4PrCE/photos/AelY_CuIcunA5-NwKILYhbQTf6XRuwevPAzznGGCd_gW2nXMatwwoGMv4U26aztqtLYoED-AguSWUySvdxwayo1GEJtd6JWnHjl0aLg3ZV63sZfwYyyk-KaAcnQQh7XtwQmwUQzs-AXWWe3mgFql9oPBm1nFd6t8O8JDsu7z",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Salim Parak",
+                            "uri": "//maps.google.com/maps/contrib/112381670198421030401",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV4qcrKKC7vO3-iZedgq5uB2FhnG_kueqvHUaxEoqqvQeGD9Zetbw=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "evChargeOptions": {
+                "connectorCount": 5,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CCS_COMBO_1",
+                        "maxChargeRateKw": 50,
+                        "count": 2,
+                        "availableCount": 2,
+                        "outOfServiceCount": 0,
+                        "availabilityLastUpdateTime": "2024-07-22T10:45:00Z"
+                    },
+                    {
+                        "type": "EV_CONNECTOR_TYPE_J1772",
+                        "maxChargeRateKw": 3.5999999046325684,
+                        "count": 1,
+                        "availableCount": 0,
+                        "outOfServiceCount": 1,
+                        "availabilityLastUpdateTime": "2024-07-22T10:45:00Z"
+                    },
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CHADEMO",
+                        "maxChargeRateKw": 50,
+                        "count": 2,
+                        "availableCount": 2,
+                        "outOfServiceCount": 0,
+                        "availabilityLastUpdateTime": "2024-07-22T10:45:00Z"
+                    }
+                ]
+            }
+        },
+        {
+            "formattedAddress": "4800 El Camino Real, Los Altos, CA 94022, USA",
+            "location": {
+                "latitude": 37.399403299999996,
+                "longitude": -122.1109915
+            },
+            "displayName": {
+                "text": "Tesla Supercharger",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJt8ddRACxj4AR57UhkdPrvqw/photos/AelY_CuSeUwuZHid52C8Z4C-SfvCHI3mVSwnPvoIAqjw9gvscIEK3skg43gIc9AtTaE-g_xDT_gXbcihIqhC0_qXv4lt_QEzetEsT_6CvYwXhV-1YI9apA62vEwtIXiJR-IN5MiSR4iZNieOF-xpeiaP4s7D54gyy_SmheOT",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Demid Makeikin",
+                            "uri": "//maps.google.com/maps/contrib/100732180917859298298",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWTqXzm2UZKyrAHOVh5bk5IkooR9jED5bm2gSqqXQyNS2qVEuxDAw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJt8ddRACxj4AR57UhkdPrvqw/photos/AelY_CvcFsRAWAgUp9XN24Q6w9r4b4A9-gWFK2kbFcZaC9DXS-jOTdhaCr5yL2SETwbgkUnnplNtSjvhz7jBprXAbvUVwhRPSX-yOc9NtfJoZLBf4aZ8bS1mMwgLHaSh_VQ0LfJ0SbO2U9a2oV_9HIDZfPHPGKzgtFjfo-10",
+                    "widthPx": 1890,
+                    "heightPx": 3358,
+                    "authorAttributions": [
+                        {
+                            "displayName": "dioncam",
+                            "uri": "//maps.google.com/maps/contrib/105254184467442279435",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocINYbfNWLnbnB62zwAF4Ei22LWh68whcNRCLGSih_s6IeRvKA=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "evChargeOptions": {
+                "connectorCount": 16,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_TESLA",
+                        "maxChargeRateKw": 72,
+                        "count": 16
+                    }
+                ]
+            }
+        },
+        {
+            "formattedAddress": "580 N Rengstorff Ave, Mountain View, CA 94043, USA",
+            "location": {
+                "latitude": 37.4111964,
+                "longitude": -122.0934284
+            },
+            "displayName": {
+                "text": "EVgo Charging Station",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJC5b6QKiwj4ARgn2EwlnJnWU/photos/AelY_CtFuk-fHgtbugcrhKxF9EV0hP4K76yaeyC2rrx9rf3ype89COhQ07LVqzvLN3BBAp7eEfP_ePUjElNIp6_ka29QSOs6Eobw39mbS-mQMW86AD9GsoOcqenemx4pwDxIyXVsoUtdRIxbj4j-g2SsKXM49zjp2-Ajo7ys",
+                    "widthPx": 3120,
+                    "heightPx": 4160,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Giuseppe D'anna",
+                            "uri": "//maps.google.com/maps/contrib/117550468186313014469",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLOkKjSIIwbestO_VyxxaKac5i0uQ-qKmTsTY8J1m4hCkmBJA=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "evChargeOptions": {
+                "connectorCount": 6,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CCS_COMBO_1",
+                        "maxChargeRateKw": 100,
+                        "count": 4,
+                        "availableCount": 1,
+                        "outOfServiceCount": 0,
+                        "availabilityLastUpdateTime": "2024-07-22T10:45:00Z"
+                    },
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CCS_COMBO_1",
+                        "maxChargeRateKw": 350,
+                        "count": 2,
+                        "availableCount": 0,
+                        "outOfServiceCount": 2,
+                        "availabilityLastUpdateTime": "2024-07-22T10:45:00Z"
+                    }
+                ]
+            }
+        }
+    ]
+}
